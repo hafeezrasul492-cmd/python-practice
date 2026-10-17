@@ -1,1 +1,2 @@
 Din 1: git push, python input/if-else, 2 repos
+Din 2: loops, ping checker, DNS search domain bug fix

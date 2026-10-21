@@ -1,3 +1,4 @@
 Din 1: git push, python input/if-else, 2 repos
 Din 2: loops, ping checker, DNS search domain bug fix
 Din 3: functions, ping checker with log file
+Din 4: Docker install, hello-world, ubuntu container 

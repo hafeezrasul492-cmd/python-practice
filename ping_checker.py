@@ -7,7 +7,7 @@ def check_site(site):
 
 sites = ["google.com.", "youtube.com.", "github.com.", "fakesite12345.com."]
 
-with open("ping_log.txt", "a") as f:
+with open("/data/ping_log.txt", "a") as f:
     for site in sites:
         time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
         if check_site(site):

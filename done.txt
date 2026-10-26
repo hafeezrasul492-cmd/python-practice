@@ -3,3 +3,4 @@ Din 2: loops, ping checker, DNS search domain bug fix
 Din 3: functions, ping checker with log file
 Din 4: Docker install, hello-world, ubuntu container 
 Din 5: Dockerfile, build, run. Issue: container ka log delete hota hai, hal volumes
+Din 6: bind mount (-v host:container), log file bachayi. Image code badle to rebuild zaroori
